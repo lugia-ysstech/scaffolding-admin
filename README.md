@@ -1,0 +1,2 @@
+# scaffolding-admin
+use admin
